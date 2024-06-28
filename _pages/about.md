@@ -37,3 +37,5 @@ I'm now working on the area of Natural Language Processing, multimodal foundatio
 - TiBERT: A Non-autoregressive Pre-trained Model for Text Editing, NLPCC 2023
 
   Baoxin Wang, **Ziyue Wang**, Wanxiang Che, Dayong Wu, Rui Zhang, Bo Wang, Shijin Wang
+
+_Please refer to [google scholar](https://scholar.google.com/citations?user=94EIwZIAAAAJ&hl=zh-CN) for the full publication list._
