@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ziyue Wang"
 description              : &description "personal description"
 url                      : "https://wangphoebe.github.io"
 # baseurl                  : "/homepage"
