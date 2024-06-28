@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ziyue Wang's personal homepage"
 title_separator          : "-"
 name                     : &name "Ziyue Wang"
 description              : &description "personal description"
