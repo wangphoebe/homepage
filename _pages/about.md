@@ -11,7 +11,6 @@ I am a PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), ad
 I'm now working on the area of Natural Language Processing, multimodal foundation models and multimodal abilities. I'm also insterested in AI+cognition.
 
 ## Experiences
-======
 - **Tsinghua University**, Computer Science, Beijing, 2022-
 - **iFlytek**, NLP Researcher, Beijing, 2018-2022
 - **Cocoon Networks London**, Business Analyst, London, 2017 
