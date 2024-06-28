@@ -16,3 +16,6 @@ I'm now working on the area of Natural Language Processing, multimodal foundatio
 - **Cocoon Networks London**, Business Analyst, London, 2017 
 - **University of Edinburgh**, Artifitial Intelligence, Edinburgh, 2016-2017
 - **Beijing University of Posts and Telecommunications**, Telecommunication and Management, Beijing, 2012-2016
+
+## Recent publications
+- 
