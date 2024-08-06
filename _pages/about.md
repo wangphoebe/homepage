@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/). 
+I am a PhD candidate at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/). 
 I'm now working on the area of Natural Language Processing, multimodal foundation models and multimodal abilities. I'm also insterested in AI+cognition.
 
 ## Experiences
@@ -18,15 +18,21 @@ I'm now working on the area of Natural Language Processing, multimodal foundatio
 - **Beijing University of Posts and Telecommunications**, Telecommunication and Management, Beijing, 2012-2016
 
 ## Recent publications
-- Browse and Concentrate: Comprehending Multimodal Content via prior-LLM Context Fusion, ACL 2024 (oral) [code](https://github.com/THUNLP-MT/Brote)
+- Browse and Concentrate: Comprehending Multimodal Content via prior-LLM Context Fusion, ACL 2024 (oral)
+
+  [code](https://github.com/THUNLP-MT/Brote)
 
   **Ziyue Wang**, Chi Chen, Yiqi Zhu, Fuwen Luo, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Maosong Sun, Yang Liu
 
 - CODIS: Benchmarking Context-Dependent Visual Comprehension for Multimodal Large Language Models, ACL 2024
 
+  [code](https://github.com/THUNLP-MT/CODIS)
+
   Fuwen Luo, Chi Chen, Zihao Wan, Zhaolu Kang, Qidong Yan, Yingjie Li, Xiaolong Wang, Siyu Wang, **Ziyue Wang**, Xiaoyue Mi, Peng Li, Ning Ma, Maosong Sun, Yang Liu
       
-- Model Composition for Multimodal Large Language Models, ACL 2024 
+- Model Composition for Multimodal Large Language Models, ACL 2024
+
+  [code](https://github.com/THUNLP-MT/ModelCompose)
 
   Chi Chen, Yiyang Du, Zheng Fang, **Ziyue Wang**, Fuwen Luo, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Maosong Sun, Yang Liu
 
