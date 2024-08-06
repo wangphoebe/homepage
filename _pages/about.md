@@ -18,15 +18,15 @@ I'm now working on the area of Natural Language Processing, multimodal foundatio
 - **Beijing University of Posts and Telecommunications**, Telecommunication and Management, Beijing, 2012-2016
 
 ## Recent publications
-- Browse and Concentrate: Comprehending Multimodal Content via prior-LLM Context Fusion, ACL 2024 main conference
+- Browse and Concentrate: Comprehending Multimodal Content via prior-LLM Context Fusion, ACL 2024 (oral) [code](https://github.com/THUNLP-MT/Brote)
 
   **Ziyue Wang**, Chi Chen, Yiqi Zhu, Fuwen Luo, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Maosong Sun, Yang Liu
 
-- CODIS: Benchmarking Context-Dependent Visual Comprehension for Multimodal Large Language Models, ACL 2024 main conference
+- CODIS: Benchmarking Context-Dependent Visual Comprehension for Multimodal Large Language Models, ACL 2024
 
   Fuwen Luo, Chi Chen, Zihao Wan, Zhaolu Kang, Qidong Yan, Yingjie Li, Xiaolong Wang, Siyu Wang, **Ziyue Wang**, Xiaoyue Mi, Peng Li, Ning Ma, Maosong Sun, Yang Liu
       
-- Model Composition for Multimodal Large Language Models, ACL 2024 main conference
+- Model Composition for Multimodal Large Language Models, ACL 2024 
 
   Chi Chen, Yiyang Du, Zheng Fang, **Ziyue Wang**, Fuwen Luo, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Maosong Sun, Yang Liu
 
