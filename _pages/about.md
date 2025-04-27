@@ -18,11 +18,17 @@ I'm now working on the area of Natural Language Processing, multimodal foundatio
 - **Beijing University of Posts and Telecommunications**, Telecommunication and Management, Beijing, 2012-2016
 
 ## Recent publications
+- CoSpace: Benchmarking Continuous Space Perception Ability for Vision-Language Models, CVPR 2025
+
+  [code](https://github.com/THUNLP-MT/CoSpace)
+
+  Yiqi Zhu*, **Ziyue Wang***, Can Zhang, Peng Li, Yang Liu
+
 - Browse and Concentrate: Comprehending Multimodal Content via prior-LLM Context Fusion, ACL 2024 (oral)
 
   [code](https://github.com/THUNLP-MT/Brote)
 
-  **Ziyue Wang**, Chi Chen, Yiqi Zhu, Fuwen Luo, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Maosong Sun, Yang Liu
+  **Ziyue Wang***, Chi Chen*, Yiqi Zhu, Fuwen Luo, Peng Li, Ming Yan, Ji Zhang, Fei Huang, Maosong Sun, Yang Liu
 
 - CODIS: Benchmarking Context-Dependent Visual Comprehension for Multimodal Large Language Models, ACL 2024
 
